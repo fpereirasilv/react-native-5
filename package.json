@@ -18,7 +18,7 @@
     "codenation-jest-score": "https://github.com/thecodenation/codenation-jest-score/tarball/master",
     "expo": "^34.0.4",
     "jest": "^24.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
